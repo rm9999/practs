@@ -11,7 +11,7 @@ public class Pract {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.co.in/");
-		System.out.println("google open............!!!!!!!!!!");
+		System.out.println("google open...........!!!!!!!!!!");
 	}
 
 }
